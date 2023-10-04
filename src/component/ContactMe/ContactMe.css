@@ -1,0 +1,47 @@
+#contact {
+  padding: 5% 5% 2%;
+}
+
+.info {
+  padding: 30px;
+  background: #fff;
+  width: 100%;
+  box-shadow: 0 0 24px 0 rgb(0 0 0 / 12%);
+}
+
+.info h4 {
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  line-height: normal;
+}
+
+.info i {
+  color: #ff5823;
+  margin: 0;
+  padding-right: 1rem;
+}
+
+.info p {
+  padding-left: 1.5rem;
+}
+
+.address{
+  margin-top: 10%;
+}
+
+.info div{
+  margin-left: 2rem;
+}
+
+.php-media {
+  width: 100%;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 24px 0 rgb(0 0 0 / 12%);
+}
+
+.php-media video{
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,43 @@
+#resume-container{
+    padding: 5% 5% 2%;
+}
+
+.get-resume-button {
+    color: aliceblue;
+    background-color: #ff5823;
+    padding: .5rem 1rem;
+    border: 2px solid rgb(232, 230, 230);
+    border-radius: 5px;
+  }
+  
+  .get-resume-button:hover {
+    color: black;
+    border: 2px solid #19253e;
+  }  
+
+.resume-bullet{
+    list-style-type: none ;
+    border-left: 2px solid #0D4C92;
+    padding-left: 1rem;
+    
+}
+
+.resume-bullet i{
+    position: relative;
+    left: -27px;
+    top: -3px;
+    z-index: 1;
+    background-color: #ffff;
+    color: #0D4C92;
+}
+
+.edu-time{
+    background-color: #e3a390;
+    padding: .5rem;
+    margin-top: 0.5rem;
+    display: inline-block;
+}
+
+.resume-contact{
+    margin-left: 2rem;
+}

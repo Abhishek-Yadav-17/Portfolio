@@ -1,0 +1,21 @@
+.navbar{
+    background-image: url(https://w0.peakpx.com/wallpaper/20/744/HD-wallpaper-black-pattern-black-design-modern.jpg);
+}
+.my-brand{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #e43a06;
+}
+
+.shrink-button{
+    color: aliceblue;
+    border-color: aliceblue;
+}
+
+.nav-item{
+    padding: 0.5rem 2rem;
+}
+
+.offcanvas-body a{
+    color: white;
+}

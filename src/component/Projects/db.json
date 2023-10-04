@@ -1,0 +1,86 @@
+[
+    {
+        "project": [
+            {
+                "sNo": 7,
+                "image": "assets/petActive.png",
+                "title": "PetActive",
+                "Tech Stack":"J2EE(Spring boot), React, Mysql, BootStrap",
+                "link": null,
+                "description": "PetActive is a comprehensive web platform that seamlessly integrates React frontend, Spring Boot backend, and MySQL database technologies. Offering an intuitive interface, it encompasses e-commerce for pet accessories, ethical pet purchase/adoption, virtual veterinary services, detailed pet care guides, and a robust pet services marketplace. PetActive revolutionizes pet care by harmonizing advanced tech with responsible pet ownership, catering to diverse needs while ensuring data security and user privacy."
+            },
+            {
+                "sNo": 3,
+                "image": "assets/e__notebook.png",
+                "title": "e-Notebook",
+                "Tech Stack":"ReactJs, NodeJs, MongoDB, ExpressJs, BootStrap",
+                "link": "https://e-notebook-by-abhishek.netlify.app/",
+                "description": "E-Notebook, a React-based web project on the MERN stack, introduces an advanced digital documentation solution. Seamlessly integrating MongoDB, Express, React, and Node.js, this platform offers a modern, efficient way to create, organize, and manage notes. Users benefit from real-time collaboration, customizable organization, and secure data storage. With React's dynamic interface and the MERN stack's robust architecture, E-Notebook transforms note-taking into a user friendly and collaborative experience. From professionals to students, this project caters to a wide range of users seeking a streamlined solution for their notekeeping needs."
+            },
+            {
+                "sNo": 8,
+                "image": "assets/snaptube.png",
+                "title": "Snapchat-Clone",
+                "Tech Stack":"ReactJs, Firebase, Material UI, BootStrap",
+                "link": "https://snapchat-full-clone.web.app/",
+                "description": "Snapchat-Clone is an exciting project developed with React, React Redux, and React Router for the front-end. Firebase serves as the secure back-end, ensuring robust authentication and authorization. This clone offers Snapchat-like features, allowing users to capture and send images, all while providing the option to save them to their device securely. It provides a seamless and engaging user experience reminiscent of the popular social media platform."
+            },
+            {
+                "sNo": 9,
+                "image": "assets/netflix.png",
+                "title": "Netflix",
+                "Tech Stack":"ReactJs, Firebase, Styled Components, BootStrap",
+                "link": null,
+                "description": "Netflix-Clone is a project created with React, React Redux, and React Router for the front-end, while Firebase handles secure authentication and authorization. Leveraging movie APIs from the internet, it replicates the user experience of Netflix, offering a vast selection of movies and TV shows, user profiles, and the ability to browse, search, and watch content, all within a secure and intuitive web platform."
+            },
+            {
+                "sNo": 6,
+                "image": "assets/slack__clone.png",
+                "title": "Slack Clone",
+                "Tech Stack":"ReactJs, Firebase, Material UI, BootStrap",
+                "link": "https://slack-full-clone.web.app/",
+                "description": "Slack-Clone is a real-time chat application built with React, Redux, and React Router for the front-end. Firebase serves as the secure backend, handling user authentication and authorization. This project replicates Slack's features, including channels, direct messaging, and user profiles, providing a seamless and secure team collaboration experience."
+            },
+            {
+                "sNo": 1,
+                "image": "assets/gmail__clone.png",
+                "title": "Gmail Clone",
+                "Tech Stack":"ReactJs, Firebase, BootStrap",
+                "link": "https://gmaail-clone-a-17.web.app/",
+                "description": "Gmail-Clone is a web application project built with React, React Redux, and React Router for the front-end. Firebase serves as the secure back-end, offering robust authentication and authorization features. This project replicates the core functionalities of Gmail, providing users with a familiar email experience while ensuring data security and access control."
+            },
+            {
+                "sNo": 2,
+                "image": "assets/linkedin__clone.png",
+                "title": "Linkedin Clone",
+                "Tech Stack":"ReactJs, Firebase, Material UI, BootStrap",
+                "link": "https://linkedin-clone-ay-17.web.app/",
+                "description": "Linkedin-Clone is a web project using React, React Redux, and React Router for the front-end. Firebase handles secure authentication, authorization, and real-time updates. It mirrors LinkedIn's core features, enabling users to post thoughts and engage in professional networking while ensuring data security and privacy."
+            },
+            {
+                "sNo": 10,
+                "image": "assets/hotstar.png",
+                "title": "Movie-Website like Hotstar",
+                "Tech Stack":"ReactJs, Firebase, Material UI, BootStrap",
+                "link": null,
+                "description": "Movie Website is a captivating web project built using React, React Redux, and React Router for the front-end, with Firebase handling robust authentication and authorization. By integrating movie APIs from the internet, it recreates the immersive experience of popular streaming platforms like Netflix. Users can explore, search, and watch a diverse range of movies and TV shows while enjoying personalized profiles and watchlists. Security and data privacy are paramount, ensured through Firebase. Movie Website offers a responsive design for optimal viewing, making it a user-friendly platform for movie enthusiasts."
+            },
+            {
+                "sNo": 4,
+                "image": "assets/textEditoor.png",
+                "title": "TextEditooor",
+                "Tech Stack":"ReactJs, BootStrap",
+                "link": "https://texteditooor-by-abhishek.netlify.app/",
+                "description": "TextEditooor is a React-based text editing tool with powerful features. It allows users to easily convert text to uppercase or lowercase, remove extra spaces, clear text, copy text to the clipboard, and count the number of letters. Additionally, it estimates the time required to read the given text, making it a versatile and efficient tool for text manipulation and analysis."
+            },
+            {
+                "sNo": 5,
+                "image": "assets/pixallery.png",
+                "title": "Pixallery - Image Gallery",
+                "Tech Stack":"ReactJs, Tailwind CSS",
+                "link": "https://pixallery-by-abhishek.netlify.app/",
+                "description": "Pixallary is a visually stunning web project built with React and Tailwind CSS. It harnesses the power of API fetching from the internet to deliver a captivating image gallery. Users can effortlessly find and view their desired images through a convenient search feature, making Pixallary a sleek and user-friendly platform for image exploration"
+            }
+        ]
+    }
+]

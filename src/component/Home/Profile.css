@@ -1,0 +1,68 @@
+.profile-container {
+  padding: 15% 5%;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 10%;
+  min-height: fit-content;
+  background-image: url(https://w0.peakpx.com/wallpaper/20/744/HD-wallpaper-black-pattern-black-design-modern.jpg);
+  background-attachment: fixed;
+}
+
+.profile-parent {
+  color: aliceblue;
+  align-items: center;
+}
+
+.fa-brands {
+  color: rgb(237, 229, 226);
+  margin: 0.5rem;
+}
+
+.primary-text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  margin: 0.5rem 0 1rem;
+}
+
+.highlighted-text {
+  color:#ff5823;
+}
+
+.profile-role-tagline {
+  padding-top: 5rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: large;
+}
+
+.profile-options {
+  margin: 2rem 0 0;
+}
+
+.hire-me-btn {
+  background-color: #19253e;
+  color: aliceblue;
+  padding: 1rem 2rem;
+  border: 2px solid rgb(232, 230, 230);
+  border-radius: 32px;
+}
+
+.hire-me-btn:hover {
+  color: #ff5823;
+  border: 2px solid #ff5823;
+}
+
+.get-resume-btn {
+  color: aliceblue;
+  background-color: #ff5823;
+  padding: 1rem 2rem;
+  border: 2px solid rgb(232, 230, 230);
+  border-radius: 32px;
+}
+
+.get-resume-btn:hover {
+  color: black;
+  border: 2px solid #19253e;
+}
+

@@ -1,0 +1,34 @@
+body{
+  display: flex;
+}
+
+h2{
+  color: #e43a06;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
+
+a:hover{
+  color: #f46d44;
+}
+
+hr{
+  width: 5%;
+  border-width: 5px;
+  color: #1C6DD0;
+  opacity: 100%;
+}
+
+.app{
+  overflow-x: hidden;
+}
+
+.skill .row hr{
+  width: 100%;
+  border-width: 8px;
+  color: #1C6DD0;
+  opacity: 100%;
+}

@@ -1,0 +1,52 @@
+#about{
+    padding: 5% 5% 2%;
+}
+
+ul{
+    list-style-type: none;
+    line-height: 2;
+    padding: 0%;
+}
+
+.info{
+    padding: 2rem;
+    line-height: 2.5;
+    align-items: center;
+}
+
+.info h4{
+    padding-bottom: 1rem;
+}
+
+.info ul i{
+    padding-right: 1rem;
+    color: #3AB0FF;
+}
+
+
+.profile-pic img{
+    height: 300px;
+    object-fit: contain;
+    margin: 2rem;
+    border: 2px solid #19253e;
+}
+
+.profile-pic img:hover{
+  border-color: #1C6DD0;
+}
+
+.About__info{
+    display: flex;
+    align-items: center;
+}
+
+.skill{
+    padding: 2rem;
+    background-color: #f5ece9;
+}
+
+.skills{
+    border-left: 4px solid #1C6DD0;
+    margin-bottom: 4px;
+    padding-left: 1rem;
+}

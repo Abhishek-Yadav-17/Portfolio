@@ -1,0 +1,36 @@
+#project-container{
+    padding: 5% 5% 2%;
+    background-color: #fdf3f0;
+}
+
+#project-container .row{
+    padding-left: 2rem;
+}
+
+.card{
+    margin: 2rem;
+}
+
+.card-img-top{
+    height: 13rem;
+}
+
+.proj {
+    padding: 2rem 4rem;
+}
+
+.img__col{
+    border-bottom: 2px solid #1C6DD0;
+    border-right: 2px solid #1C6DD0;
+    padding-bottom: 1rem;
+}
+
+.desc__col{
+    border-top: 2px solid #1C6DD0;
+    border-right: 2px solid #1C6DD0;
+    padding: 2rem;
+}
+
+.desc__col h3{
+    color: #ff5823;
+}
